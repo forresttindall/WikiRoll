@@ -18,11 +18,6 @@ body {
     background: white;
 }
 
-@media  screen and (max-width: 700px) {
-    body {
-        height: 90vh;
-    }
-}
 
 .title {
     font-family: 'Times New Roman', Times, serif;
