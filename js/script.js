@@ -159,6 +159,7 @@ const rollDice = random => {
             'https://en.wikipedia.org/wiki/Kentucky_meat_shower',
             'https://en.wikipedia.org/wiki/Knights_of_the_Golden_Circle',
             'https://en.wikipedia.org/wiki/COINTELPRO',
+            ''
             //add more links here
             ];
 

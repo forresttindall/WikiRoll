@@ -21,6 +21,7 @@ body {
 .title {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 400;
+    font-size: 4rem;
     text-align: center;
     margin: 20px;
 }
@@ -28,6 +29,8 @@ body {
 .subtitle {
     text-align: center;
     margin-bottom: 30px;
+    font-size: 1.5rem;
+    line-height: 1.3;
 }
 
 .container {
@@ -164,20 +167,20 @@ body {
 
 .roll {
     cursor: pointer;
-    color: rgb(72, 101, 199);
+    color: #ffff;
     margin-top: 60px;
-    padding: 10px 20px;
+    padding: 15px 30px;
     border-radius: 3px;
-    font: 500 16px 'Times New Roman';
-    background: linear-gradient(145deg, #dddbd8, #fff);
-    border: solid 3px #fff;
+    font: 600 18px 'Times New Roman';
+    background: #f63330;
+    border: solid 3px #f63330;
     border-radius: 10px;
     transition: .4s;
 }
 
 .roll:hover {
     color: #fff;
-    background: rgb(72, 101, 199);
+    background: #f63330;
 }
 
 
