@@ -183,5 +183,10 @@ body {
     background: #f63330;
 }
 
-
+.donate {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 50px
+}
 
